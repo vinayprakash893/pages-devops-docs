@@ -1,3 +1,3 @@
-## Welcome to Ordina DevOps space
+## Welcome to Sree DevOps space
 
  * [DevOps Buildnights](buildnight.md)
